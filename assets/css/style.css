@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap');
+
+
+body {
+  /* font-family: 'Bebas Neue', cursive; */
+  font-family: 'Roboto', sans-serif;
+}
+
+.penguin-header-bg-green-100 {
+  background-color: #FFFBF0;
+}
+
+.penguin-text-color {
+  color: #3C3C3C;
+}
+
+.penguin-fw-500 {
+  font-weight: 500;
+}
+
+.penguin-btn-gradient-green {
+  background: linear-gradient(180deg, #A4BC46 0%, #85A019 100%);
+}
+
+.penguin-btn-padding {
+  padding: 1.1rem 2.1rem;
+}
+
+.penguin-border-radius {
+  border-radius: 0.65rem;
+}
+
+.penguin-f-bebas {
+  font-family: Bebas Neue;
+  font-weight: 400;
+}
+
+.penguin-fs-5 {
+  font-size: 5rem;
+}
+
+.penguin-lh-6 {
+  line-height: 6rem;
+}
+
+.penguin-heading-yellow {
+  color: #FABE4C;
+}
+
+.penguin-heading-black {
+  color: #363958;
+}
